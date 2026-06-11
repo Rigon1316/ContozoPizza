@@ -33,3 +33,4 @@ C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\obj\Release\net8.0\ref
 C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\obj\Release\net8.0\Proyecto.pdb
 C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\obj\Release\net8.0\Proyecto.genruntimeconfig.cache
 C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\obj\Release\net8.0\ref\Proyecto.dll
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\obj\Release\net8.0\Proyecto.sourcelink.json
