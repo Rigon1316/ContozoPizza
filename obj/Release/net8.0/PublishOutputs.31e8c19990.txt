@@ -1,0 +1,11 @@
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Proyecto.exe
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\appsettings.Development.json
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\appsettings.json
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Proyecto.dll
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Proyecto.deps.json
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Proyecto.runtimeconfig.json
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Proyecto.pdb
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Microsoft.OpenApi.dll
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Richard G\OneDrive\Desktop\Proyecto\ContosoPizza\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
